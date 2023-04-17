@@ -1240,7 +1240,7 @@ ImGuiIO::ImGuiIO()
     UserData = NULL;
 
     Fonts = NULL;
-    FontGlobalScale = 1.0f;
+    FontGlobalScale = 1.7f;
     FontDefault = NULL;
     FontAllowUserScaling = false;
     DisplayFramebufferScale = ImVec2(1.0f, 1.0f);
